@@ -5,49 +5,31 @@ LIST (Land Information System Tasmania). They have been made available
 “as-is”.
 
 The following tools are on the toolbar :
+?
+> ![](Images/cmdListBaseMap.png?raw=true)**Add Topographic Basemap** layer to the map and Table of Contents. 
+>
+> ![](Images/cmdListOrthoBasemap.png?raw=true) **Add Orthophoto Basemap** layer to the map and Table of Contents.
 
-> ![](media/image6.png){width="0.19166666666666668in"
-> height="0.19166666666666668in"} **Add Topographic Basemap** layer to
-> the map and Table of Contents. Lets just
->
-> ![](media/image7.png){width="0.19166666666666668in"
-> height="0.19166666666666668in"} **Add Orthophoto Basemap** layer to
-> the map and Table of Contents.
+>![](Images/cmdListWebServices.png?raw=true) **Add LISTmap web services** to ArcCatalog directory
 
-![](media/image8.png){width="0.19166666666666668in"
-height="0.19166666666666668in"} **Add LISTmap web services** to
-ArcCatalog directory
-
-> ![](media/image9.png){width="1.2666666666666666in" height="0.175in"}
-> **ArcMap LIST Search Tool** Uses LISTmap search to find entry. Either
-> address entries or Nomenclature (Features) are returned in a *Search
-> Results* window. The selected address or feature is zoomed to and then
-> displayed with flash highlighting within ArcMap data frame. Only one
-> address or feature can be selected.
+> ![](Images/Search_bar.png?raw=true)
+ **ArcMap LIST Search Tool** Uses LISTmap search to find entry. Either address entries or Nomenclature (Features) are returned in a *Search Results* window. The selected address or feature is zoomed to and then displayed with flash highlighting within ArcMap data frame. Only one address or feature can be selected.
 >
-> ![](media/image10.png){width="0.19166666666666668in"
-> height="0.19166666666666668in"} **Google View** : Opens Google Earth
-> with the current extent shown in ArcMap. Click to update. Starts
-> Google Earth on first click.
+> ![](Images/cmdGoogleView.png?raw=true) **Google View** : Opens Google Earth with the current extent shown in ArcMap. Click to update. Starts Google Earth on first click.
 >
-> ![](media/image11.png){width="0.16666666666666666in"
-> height="0.16666666666666666in"} **ListMapView** : Opens LISTMap with
-> the current extent shown in ArcMap. Click to update. Loads LISTMap
-> into default browser on click. One instance per click
+> ![](Images/cmdListMapView.png?raw=true) **ListMapView** : Opens LISTMap with the current extent shown in ArcMap. Click to update. Loads LISTMap
+into default browser on click. One instance per click
 >
-> ![](media/image12.png){width="0.20833333333333334in"
-> height="0.2in"}**ArcGIS OnLine** : Launch the Arc GISOnline dialog so
+> ![](Images/ArcGISOnline_button.png?raw=true) **ArcGIS OnLine** : Launch the Arc GISOnline dialog so
 > you access additional data and maps. If greyed-out, open the ArcGIS
+
 > Connection. Properties
-> ![](media/image13.jpeg){width="0.19166666666666668in"
-> height="0.23333333333333334in"} from the Windows taskbar. Rick click
-> &gt; Properties &gt; check “Always check at start of a session”. If
-> the icon is not visible open the “Show Hidden Icons” (small up-arrow)
-> &gt; Customize &gt; check “Show Icon and Notifications” behavior of
-> the ArcGis Connections icon.
+* ![](Images/ArcGIS_trayicon.jpg?raw=true) from the Windows taskbar.
+* Right click
+> &gt; Properties &gt; check “Always check at start of a session”. 
+* If the icon is not visible open the “Show Hidden Icons” (small up-arrow) &gt; Customize &gt; check “Show Icon and Notifications” behavior of the ArcGis Connections icon.
 >
-> ![](media/image14.png){width="0.19166666666666668in"
-> height="0.19166666666666668in"} This **Help**
+> ![](Images/btnHelp.png?raw=true) This **Help**
 
 **Compatibility**
 
@@ -73,7 +55,7 @@ For DPIPWE users more information can be found on our wiki page:
 For users outside DPIPWE updates and documentations are posted on
 **git-hub** at:
 
-(coming soon)
+this location
 
 For more detailed information on how to access LIST web services, see
 the following documentation:
