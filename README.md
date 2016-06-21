@@ -1,7 +1,7 @@
 DPIPWE\_Tools\_Addin
 ====================
 
-This ESRI Addin toolbar provides access to a variety of web based services: Google Earth, theLIST and ArcGIS Online. These services are for the Australian state of Tasmania. This Addin is provided by [Land Tasmania]( (http://dpipwe.tas.gov.au/land-tasmania).
+This ESRI Addin toolbar provides access to a variety of web based services: Google Earth, theLIST and ArcGIS Online. These services are for the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania).
 
 The [LIST](http://dpipwe.tas.gov.au/land-tasmania/the-list) (Land Information System Tasmania)  is a contemporary online service that provides access to integrated land and property information service. [LISTMap](http://dpipwe.tas.gov.au/land-tasmania/the-list/listmap) allows users to view and create maps from hundreds of authoritative spatial datasets, and find out more about the information shown on those maps.
 
@@ -45,4 +45,4 @@ Phone (03) 6165 4118
 
 Email [mailto:gissd@dpipwe.tas.gov.au](mailto:gissd@dpipwe.tas.gov.au)
 
-<img src="/media/Tas_Gov_logo.jpeg" width="601" height="217" />
+<img src="/media/Tas_Gov_logo.jpg" width="601" height="217" />

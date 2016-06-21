@@ -100,4 +100,4 @@ Phone (03) 6165 4118
 
 Email [mailto:gissd@dpipwe.tas.gov.au](mailto:gissd@dpipwe.tas.gov.au)
 
-<img src="media/Tas_Gov_logo.jpeg" width="601" height="217" />
+<img src="media/Tas_Gov_logo.jpg" width="601" height="217" />
